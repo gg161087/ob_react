@@ -1,0 +1,28 @@
+¿Qué es un SPA?
+Una web SPA (single page application) es una forma de desarrollo web en la que la página web esta contenida en un único archivo HTML.
+Mientras navegamos por la web, se irán solicitando los contenidos al servidor.
+De esta forma se mejoran los tiempos de respuesta y, por lo tanto la experiencia de usuario.
+
+¿Qué es ReactJS?
+Reacj JS es una librería de JavaScript para crear interfaces de usuario.
+Esta librería, que no es un framework, fue creada por Facebook en 2013, y sigue siendo mantenida por esta misma compañia al dia de hoy.
+Pero no solo es una librería de Facebook: Una de sus características más interesantes es que es de código abierto. lo que implica que existen numerosas
+comunicades por toda la red que aportan información y ayuda día a día, tanto para los usuarios como para mejroar React.
+Características:
+    Velocidad
+    Componentes
+    Desarrollo Declarativo
+    Anidación de Componentes
+    Isomorfismo(renderizar tanto en el server como en el cliente)
+    Agilidad de Desarrollo
+
+Instalar React:
+    En terminal(teniendo instalado node):
+        npm i -g create-react-app
+
+Iniciar proyecto:
+    En terminal(teniendo instalado node y react):
+        create-react-app NOMBRE_PROYECTO
+    En caso de no tener instalado create-react-app localmente:
+        npx create-react-app NOMBRE_PROYECTO
+    
