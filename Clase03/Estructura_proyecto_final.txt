@@ -1,0 +1,20 @@
+NOMBRE_PROYECTO
+	/public
+	/src
+		/components
+			/containers
+			/pure
+				/froms
+				greeting.jsx
+				greetingF.jsx
+		/hooks
+		/models
+		/pages
+			/404
+			/auth
+			/home
+		/routes
+	.gitignore
+	package-lock.json
+	package.json
+	README.md
